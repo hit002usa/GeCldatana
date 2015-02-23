@@ -12,8 +12,13 @@ The purpose of this project is to demonstrate your ability to collect, work with
 
 ## Acknowledge
 This work is motivated by the following reference 
+
 1. https://rstudio-pubs-static.s3.amazonaws.com/30578_9519a6fce3524cc5a21dfba8c9ef6e69.html
+
 2. https://bitbucket.org/maurotrb/getting-cleaning-data-2014-project/src
+
 3. https://github.com/deduce/Getting-and-Cleaning-Data-Project
+
 4. https://github.com/gralic/Getting-and-Cleaning-Data-Project/blob/master/run_analysis.R
+
 5. http://rstudio-pubs-static.s3.amazonaws.com/38022_c229b2bba19a46d197eab06eb7354c4b.html
